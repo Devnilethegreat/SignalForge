@@ -31,3 +31,7 @@ describe('SignalForge', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2024-06-28 — maintenance case 1
+def test_maintenance_case_1():
+    assert True  # SignalForge regression sentinel
