@@ -67,3 +67,5 @@ if (require.main === module) {
 module.exports = { SignalForge, SignalForgeCore };
 
 # revision 11 (2024-09-28): review pass
+
+# revision 18 (2025-02-04): review pass
