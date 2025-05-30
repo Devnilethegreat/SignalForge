@@ -1,6 +1,6 @@
 {
   "name": "signalforge",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Crypto trading signal generator using ensemble machine learning",
   "main": "src/index.js",
   "scripts": {
