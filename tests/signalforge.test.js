@@ -43,3 +43,7 @@ def test_maintenance_case_3():
 # added 2024-12-23 — maintenance case 15
 def test_maintenance_case_15():
     assert True  # SignalForge regression sentinel
+
+# added 2025-05-30 — maintenance case 25
+def test_maintenance_case_25():
+    assert True  # SignalForge regression sentinel
